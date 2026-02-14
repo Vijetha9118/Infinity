@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Valentine Page 4</title>
+    <style>
+        body {
+            background-color: #ffd6e7;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 80px;
+            color: #d12c7a;
+        }
+        h1 { font-size: 32px; margin-bottom: 20px; line-height: 1.4; }
+        img { width: 220px; margin-top: 15px; }
+    </style>
+</head>
+<body>
+
+    <h1>You said yes too many times.<br>Now you’re stuck with me permanently. 💗</h1>
+
+    <img src="GIF4-LINK-HERE" alt="Cute GIF">
+
+</body>
+</html>
